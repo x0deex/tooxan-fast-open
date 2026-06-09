@@ -18,7 +18,7 @@
 
 ```bash
 git clone https://github.com/x0deex/tooxan-fast-open.git
-cd tooxan-quick-launch
+cd tooxan-fast-open
 ```
 
 Установите необходимые зависимости:
