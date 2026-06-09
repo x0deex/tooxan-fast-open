@@ -27,7 +27,7 @@ path_to_app = r"C:\Путь\К\Вашей\Программе.exe"  # <-- CHANGE 
                                                 # THE Tooxan EXE FILE ITSELF IS LOCATED!
 
 # Запускаем программу
-subprocess.Popen(path_to_app)
+proc = subprocess.Popen(path_to_app)
 
 """
     Russia:
