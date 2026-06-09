@@ -47,4 +47,5 @@ pyautogui.press('enter')
 pyautogui.write(password)
 pyautogui.press('enter')
 
+proc.wait()
 print("Данные для входа отправлены.\n(Подождиде запускаем Tooxan)")
