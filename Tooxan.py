@@ -43,7 +43,7 @@ subprocess.Popen(path_to_app)
 time.sleep(5) # <--ЗАМЕНИ ЕСЛИ ХОЧЕШЬ: чтоб запускался быстрее(медленнее)
 
 pyautogui.write(login)
-pyautogui.press('tab')
+pyautogui.press('enter')
 pyautogui.write(password)
 pyautogui.press('enter')
 
